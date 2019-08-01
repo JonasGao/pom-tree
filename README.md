@@ -6,6 +6,7 @@
 [] View pom content
 [] Goto artifact
 [] Analyze pom
+  [] Filter dependencies by config `optional` / `scope`
 
 ## List artifact versions
 
