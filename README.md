@@ -7,6 +7,10 @@
 [] Goto artifact
 [] Analyze pom
 
+## List artifact versions
+
+`GET https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-dependencies/maven-metadata.xml`
+
 ## Other document
 
 org.springframework.cloud:spring-cloud-config-dependencies
