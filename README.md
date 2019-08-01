@@ -2,6 +2,7 @@
 
 **TODO**
 
+[] List artifact versions, by group and artifactId
 [] View pom content
 [] Goto artifact
 [] Analyze pom
