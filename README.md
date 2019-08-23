@@ -2,11 +2,12 @@
 
 **TODO**
 
-[] List artifact versions, by group and artifactId
-[] View pom content
-[] Goto artifact
-[] Analyze pom
-  [] Filter dependencies by config `optional` / `scope`
+- [ ] List artifact versions, by group and artifactId
+- [ ] View pom content
+- [ ] Goto artifact
+- [ ] Analyze pom
+  - [ ] Filter dependencies by config `optional` / `scope`
+- [ ] search artifact in dependencyManagement, to check exists
 
 ## List artifact versions
 
